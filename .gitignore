@@ -1,3 +1,7 @@
+# Ignore stupid OS-related files
+# for MAC:
+.DS_Store 
+
 # Built application files
 *.apk
 *.ap_
